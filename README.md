@@ -8,10 +8,21 @@
   <a href="mailto:jerfsonlink@gmail.com">
     <img src="https://img.shields.io/badge/Contato-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="http://jerfsonsilva.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Site_Pessoal-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site Pessoal" />
+  </a>
 </p>
 
 <p align="center">
   <sub>Eunápolis, Bahia · Engenheiro de Software Sênior · Backend, cloud e microsserviços</sub>
+</p>
+
+## 🌐 Site pessoal
+
+<p align="center">
+  <a href="http://jerfsonsilva.com/" target="_blank">
+    <img src="https://s.wordpress.com/mshots/v1/http%3A%2F%2Fjerfsonsilva.com%2F?w=1000" alt="Preview do site jerfsonsilva.com" />
+  </a>
 </p>
 
 ---
@@ -84,9 +95,6 @@
   </a>
   <a href="mailto:jerfsonlink@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="http://jerfsonsilva.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Site_Pessoal-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site Pessoal" />
   </a>
   <a href="https://github.com/jerfsonsilva?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Repositorios_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
