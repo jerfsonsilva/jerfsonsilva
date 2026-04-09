@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Stack e ferramentas
+## 🚀 Stack e ferramentas 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,java,php,aws,docker,terraform,react,vue,postgres,mysql,mongodb,git,github,vscode&perline=8" alt="Tech Stack" />
