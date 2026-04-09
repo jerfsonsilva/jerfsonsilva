@@ -9,7 +9,9 @@ permissions:
   contents: write
 
 jobs:
-  github-metrics:
+  # Dois jobs em sequência: no mesmo job, o 2º checkout costuma voltar ao SHA
+  # do disparo e o card de linguagens não commita em cima do main atualizado.
+  stats:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -25,8 +27,11 @@ jobs:
           committer_branch: ${{ github.ref_name }}
           plugins_errors_fatal: false
 
-      - name: Checkout atualizado após o primeiro commit
-        uses: actions/checkout@v4
+  languages:
+    needs: stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
 

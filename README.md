@@ -46,12 +46,12 @@
 ## 📊 Gráficos e métricas
 
 <p align="center">
-  <img height="170" src="assets/metrics-stats.svg" alt="Métricas GitHub (geradas no repositório)" />
+  <img height="170" src="https://raw.githubusercontent.com/jerfsonsilva/jerfsonsilva/main/assets/metrics-stats.svg" alt="Métricas GitHub (geradas no repositório)" />
   <img height="170" src="https://streak-stats.demolab.com?user=jerfsonsilva&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="assets/metrics-languages.svg" alt="Linguagens mais usadas (geradas no repositório)" />
+  <img height="170" style="max-width: 100%; object-fit: contain; object-position: left;" src="https://raw.githubusercontent.com/jerfsonsilva/jerfsonsilva/main/assets/metrics-languages.svg" alt="Linguagens mais usadas (geradas no repositório)" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerfsonsilva&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
 </p>
 
