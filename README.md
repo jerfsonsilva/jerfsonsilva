@@ -8,6 +8,9 @@
   <a href="mailto:jerfsonlink@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contato-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.linkedin.com/in/jerfson-silva" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="http://jerfsonsilva.com/" target="_blank">
     <img src="https://img.shields.io/badge/Site_Pessoal-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site Pessoal" />
   </a>
@@ -75,22 +78,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jerfsonsilva/jerfsonsilva/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🌐 Onde me encontrar
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jerfson-silva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jerfsonlink@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/jerfsonsilva?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositorios_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
-  </a>
 </p>
 
 ---
