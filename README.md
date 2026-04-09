@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:jerfsonlink@gmail.com">
+  <a href="mailto:jerfsonlink@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contato-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="http://jerfsonsilva.com/" target="_blank">
@@ -15,14 +15,6 @@
 
 <p align="center">
   <sub>Eunápolis, Bahia · Engenheiro de Software Sênior · Backend, cloud e microsserviços</sub>
-</p>
-
-## 🌐 Site pessoal
-
-<p align="center">
-  <a href="http://jerfsonsilva.com/" target="_blank">
-    <img src="https://s.wordpress.com/mshots/v1/http%3A%2F%2Fjerfsonsilva.com%2F?w=1000" alt="Preview do site jerfsonsilva.com" />
-  </a>
 </p>
 
 ---
