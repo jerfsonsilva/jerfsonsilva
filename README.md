@@ -1,4 +1,4 @@
-# Olá, eu sou o Jerfson Silva! 👋
+﻿# Olá, eu sou o Jerfson Silva! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2400&pause=900&color=2EA043&center=true&vCenter=true&width=950&lines=Engenheiro+de+Software+S%C3%AAnior+%7C+Backend+%2F+Cloud;10%2B+anos+criando+sistemas+escal%C3%A1veis+e+de+alto+impacto;Node.js+%7C+TypeScript+%7C+Java+%7C+PHP+%7C+AWS+%7C+Microsservi%C3%A7os;Performance%2C+seguran%C3%A7a+e+efici%C3%AAncia+operacional" alt="Typing SVG" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Stack e ferramentas 
+## 🚀 Stack e ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,java,php,aws,docker,terraform,react,vue,postgres,mysql,mongodb,git,github,vscode&perline=8" alt="Tech Stack" />
@@ -64,11 +64,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerfsonsilva&theme=tokyonight" alt="Profile Details" />
+  <sub>Repositórios em destaque (pinned, mais estrelados e seleção aleatória) com dados locais do workflow.</sub>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jerfsonsilva&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img style="max-width: 100%;" src="https://raw.githubusercontent.com/jerfsonsilva/jerfsonsilva/main/assets/metrics-featured-repos.svg" alt="Repositórios destacados (métricas locais)" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerfsonsilva&theme=tokyonight" alt="Profile Details" />
 </p>
 
 ---
