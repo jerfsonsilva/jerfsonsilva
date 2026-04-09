@@ -56,6 +56,14 @@
 </p>
 
 <p align="center">
+  <sub>Volume de trabalho em repositórios (inclui privados com PAT escopo repo): repos com mais linhas alteradas e histórico recente.</sub>
+</p>
+
+<p align="center">
+  <img style="max-width: 100%;" src="https://raw.githubusercontent.com/jerfsonsilva/jerfsonsilva/main/assets/metrics-repos-activity.svg" alt="Atividade por repositório (métricas locais)" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerfsonsilva&theme=tokyonight" alt="Profile Details" />
 </p>
 
