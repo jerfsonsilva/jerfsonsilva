@@ -51,24 +51,7 @@
 </p>
 
 <p align="center">
-  <img height="170" style="max-width: 100%; object-fit: contain; object-position: left;" src="https://raw.githubusercontent.com/jerfsonsilva/jerfsonsilva/main/assets/metrics-languages.svg" alt="Linguagens mais usadas (geradas no repositório)" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerfsonsilva&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <sub>Volume de trabalho em repositórios (inclui privados com PAT escopo repo): repos com mais linhas alteradas e histórico recente.</sub>
-</p>
-
-<p align="center">
-  <img style="max-width: 100%;" src="https://raw.githubusercontent.com/jerfsonsilva/jerfsonsilva/main/assets/metrics-repos-activity.svg" alt="Atividade por repositório (métricas locais)" />
-</p>
-
-<p align="center">
-  <sub>Repositórios em destaque (pinned, mais estrelados e seleção aleatória) com dados locais do workflow.</sub>
-</p>
-
-<p align="center">
-  <img style="max-width: 100%;" src="https://raw.githubusercontent.com/jerfsonsilva/jerfsonsilva/main/assets/metrics-featured-repos.svg" alt="Repositórios destacados (métricas locais)" />
 </p>
 
 <p align="center">
@@ -101,6 +84,9 @@
   </a>
   <a href="mailto:jerfsonlink@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="http://jerfsonsilva.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Site_Pessoal-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site Pessoal" />
   </a>
   <a href="https://github.com/jerfsonsilva?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Repositorios_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
